@@ -1,0 +1,12 @@
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\bin\Debug\Local.mdf
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\bin\Debug\Local_log.ldf
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\bin\Debug\EleLibV2.exe.config
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\bin\Debug\EleLibV2.exe
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\bin\Debug\EleLibV2.pdb
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\obj\Debug\EleLibV2.csprojResolveAssemblyReference.cache
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\obj\Debug\EleLibV2.Form1.resources
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\obj\Debug\EleLibV2.Properties.Resources.resources
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\obj\Debug\EleLibV2.csproj.GenerateResource.Cache
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\obj\Debug\EleLibV2.csproj.CoreCompileInputs.cache
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\obj\Debug\EleLibV2.exe
+G:\Dev\EleLibV2\EleLibV2\EleLibV2\obj\Debug\EleLibV2.pdb
